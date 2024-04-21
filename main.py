@@ -28,3 +28,5 @@ while True:
             print("Opcion no valida")
 
 print(f"El Valor total a pagar por la cantidad de pasajes {cantidad} es de: {totalIngresos}")
+
+#Probando el push con el terminal
